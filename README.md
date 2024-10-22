@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7C0EF7&width=435&lines=I'm+Milena+Bernardi.+Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=7C0EF7&width=435&lines=I'm+Milena+Bernardi.+Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemZjdXEzaG9ha29zeG85eDY0dW82c3F2N2Z5MHRicHQ1c2luNXluciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nu7D6caoDL1S4krWE5/giphy.webp" alt="GIF" align="right" width="200">
+<img src="<iframe src="https://giphy.com/embed/Nu7D6caoDL1S4krWE5" width="478" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/art-glitch-trippy-Nu7D6caoDL1S4krWE5">via GIPHY</a></p>" alt="GIF" align="right" width="200">
 
 ### Technologies and tools:
 
