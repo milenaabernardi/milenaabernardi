@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=7C0EF7&width=435&lines=I'm+Milena+Bernardi.+Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
 
-<iframe src="https://giphy.com/embed/Nu7D6caoDL1S4krWE5" width="478" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/art-glitch-trippy-Nu7D6caoDL1S4krWE5">via GIPHY</a></p>
+<img src="https://github.com/user-attachments/assets/3dd95ed7-9349-404f-8506-a3ad9a4cf5fb" alt="Pixel Art" align="right" width="200">
 
 ### Technologies and tools:
 
