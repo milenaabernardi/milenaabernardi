@@ -21,7 +21,7 @@
 <div align="center" style="display: flex; justify-content: center;">
   <a href="https://github.com/milenaabernardi">
     <img height="195px" src="https://github-readme-stats.vercel.app/api?username=milenaabernardi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00000000"/>
-    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milenaabernardi&layout=compact&langs_count=12&theme=tokyonight&border_color=00000000"/>
+    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milenaabernardi&layout=compact&langs_count=14&theme=tokyonight&border_color=00000000"/>
   </a>
 </div>
     
