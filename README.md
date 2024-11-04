@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7C0EF7&width=435&lines=Hey+there!+I'm+Milena+Bernardi.;Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
-<img src="https://giphy.com/gifs/trippy-abstract-pi-slices-2shBNJSPTrpWvoXfpD" alt="GIF" align="right" width="250" style="box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.5);">
+<img src="https://64.media.tumblr.com/5b1139577d2a4189554525aea2ccff54/ea676bfb292bd135-a6/s400x600/ece701dc0dcf1d153b71ae28f01e1d19177a3b90.gifv" alt="GIF" align="right" width="250" style="box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.5);">
 
 ### Technologies and tools:
 
