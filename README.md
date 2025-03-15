@@ -20,8 +20,8 @@
 
 <div align="center" style="display: flex; justify-content: center;">
   <a href="https://github.com/milenaabernardi">
-    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=milenaabernardi&show_icons=true&theme=midnight-purple&include_all_commits=false&count_private=false&border_color=00000000"/>
-    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milenaabernardi&layout=compact&langs_count=8&theme=midnight-purple&border_color=00000000"/>
+    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=milenaabernardi&show_icons=true&theme=midnight-purple&include_all_commits=false&count_private=true&border_color=00000000"/>
+    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milenaabernardi&layout=compact&langs_count=6&theme=midnight-purple&border_color=00000000"/>
   </a>
 </div>
     
